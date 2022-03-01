@@ -1,0 +1,9 @@
+            <TouchableOpacity style={{justifyContent: 'center', backgroundColor: '#42b1ab', width: '80%', height:130 ,padding: 15, marginTop: 50, borderRadius: 10}}>
+              <Text style={{fontSize:20, textAlign: 'center'}}>Redditech</Text>
+            </TouchableOpacity>
+
+
+            <TouchableOpacity style={{flexDirection:'raw', justifyContent: 'center', backgroundColor: '#42b1ab', width: '80%', height:40 ,padding: 15, marginTop: 50, borderRadius: 10}}>
+              <Text style={{fontSize:10}}>Powered by</Text>
+              <Text style={{fontSize:25, textAlign: 'center'}}>Julien & Moi</Text>
+            </TouchableOpacity>
